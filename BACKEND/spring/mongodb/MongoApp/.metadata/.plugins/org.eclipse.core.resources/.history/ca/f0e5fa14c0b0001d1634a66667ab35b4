@@ -1,0 +1,6 @@
+package gabriel.dev.springmongo.MongoApp.controller;
+
+
+public class UserController {
+
+}

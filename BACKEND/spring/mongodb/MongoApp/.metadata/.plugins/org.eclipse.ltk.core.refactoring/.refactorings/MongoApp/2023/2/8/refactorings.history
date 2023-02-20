@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;MongoApp&apos;&#x0D;&#x0A;- Original project: &apos;MongoApp&apos;&#x0D;&#x0A;- Original element: &apos;MongoApp/src/main/java/gabriel.dev.springmongo.MongoApp.documents&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;gabriel.dev.springmongo.MongoApp.documents" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1676856634280" subPackages="false" version="1.0"/>
+</session>

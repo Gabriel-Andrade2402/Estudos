@@ -1,0 +1,8 @@
+package gabriel.dev.springmongo.MongoApp.entities;
+
+import org.springframework.data.mongodb.core.mapping.Document;
+
+@Document(collection = "user")
+public class UserDocument {
+
+}

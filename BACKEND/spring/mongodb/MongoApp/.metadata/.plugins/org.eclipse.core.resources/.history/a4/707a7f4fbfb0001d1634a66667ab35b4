@@ -1,0 +1,5 @@
+package gabriel.dev.springmongo.MongoApp.services;
+
+public class UserService {
+
+}
