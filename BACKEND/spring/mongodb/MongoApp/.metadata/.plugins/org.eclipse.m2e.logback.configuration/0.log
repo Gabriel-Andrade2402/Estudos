@@ -681,3 +681,4 @@
 2023-02-19 23:32:42,732 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-02-19 23:32:42,736 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-02-19 23:32:42,737 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Programacao\Workspaces\Pessoal\Estudos\BACKEND\spring\mongodb\MongoApp\MongoApp\src\test\resources
+2023-02-20 08:38:05,607 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

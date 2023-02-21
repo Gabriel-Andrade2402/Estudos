@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.RequestHandlerSelectors"/>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.PathSelectors"/>
+    <fullyQualifiedTypeName name="nonapi.io.github.classgraph.json.Id"/>
+    <fullyQualifiedTypeName name="org.springframework.data.annotation.Id"/>
+    <fullyQualifiedTypeName name="lombok.NonNull"/>
+    <fullyQualifiedTypeName name="com.redis.om.spring.annotations.Indexed"/>
+    <fullyQualifiedTypeName name="com.redis.om.spring.repository.RedisDocumentRepository"/>
+    <fullyQualifiedTypeName name="com.redis.test.RedisOM.models.Address"/>
+    <fullyQualifiedTypeName name="org.springframework.data.geo.Point"/>
+    <fullyQualifiedTypeName name="com.redis.test.RedisOM.repositories.PeopleRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+</qualifiedTypeNameHistroy>
